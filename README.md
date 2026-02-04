@@ -18,11 +18,11 @@ I enjoy learning by building and continuously improving my coding skills.
 
 ---
 
-## 🌐 Socials: 
-
-- 🔗 **Portfolio:** https://deepak-kumar07.netlify.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/deepak-kumar-243040334
-- 🧠 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/globalx05al
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deepak-kumar-243040334)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](deepak0797dk@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/deepak00_07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white
 
 ---
 
@@ -39,15 +39,13 @@ I enjoy learning by building and continuously improving my coding skills.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepak-7777t&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepak-7777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-7777t&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-7777&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-7777&theme=tokyonight" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=annu-creator24t&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
