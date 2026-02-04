@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Deepak Kumar</h1>
+<h3 align="center">Java | DSA | Android Development | Web Development </h3>
 
-<!--
-**deepak-7777/deepak-7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Computer Science student** who loves building projects and strengthening core programming skills.
+
+- 💻 Strong in **Java**, **OOPs**, and **Data Structures**
+-  🌐 Experience with Android **Java, Kotlin, XML, Jetpack Compose**
+- 🌐 Experience with Web **HTML, CSS, JavaScript**
+- 🧠 Actively practicing problems on **LeatCode, NeatCode, GeeksforGeeks**
+- 🚀 Built multiple mini-projects to understand real-world development
+- 🎯 Currently focusing on **DSA + Core CS + Projects**
+
+I enjoy learning by building and continuously improving my coding skills.
+
+---
+
+## 🌐 Socials: 
+
+- 🔗 **Portfolio:** https://deepak-kumar07.netlify.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/deepak-kumar-243040334
+- 🧠 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/globalx05al
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak-7777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-7777&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
