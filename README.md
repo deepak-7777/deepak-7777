@@ -15,11 +15,11 @@ Java Developer | AI Enthusiast | Android Developer | Full-Stack Developer | DSA
 I'm a passionate **Computer Science student and developer** who enjoys building real-world applications, solving challenging problems, and exploring modern technologies.
 
 * 💻 Strong foundation in **Java, OOPs, DSA & Core Computer Science**
-* 🌐 Full-Stack Development with **HTML, CSS, JavaScript & Spring Boot**
+* * 📱 Android Development with **Java, Kotlin, XML & Jetpack Compose**
 * ☕ Backend Development using **Java, Spring Boot, REST APIs**
 * 🗄️ Databases: **MySQL, MongoDB & DBMS**
 * 🤖 Exploring and building applications using **AI & modern AI technologies**
-* 📱 Android Development with **Java, Kotlin, XML & Jetpack Compose**
+* 🌐 Full-Stack Development with **HTML, CSS, JavaScript & Spring Boot**
 * 🔥 Experience with **Firebase**
 * 🧠 Regularly practicing **DSA & problem solving**
 * 🏗️ Building projects to gain hands-on experience with real-world development
